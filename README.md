@@ -107,5 +107,5 @@ Website ini di-deploy ke [Vercel](https://vercel.com). Untuk deploy ulang:
 
 **Giri Nada Wardana**
 Teknik Informatika, Universitas Surakarta
-📧 tambahkan-email-kamu@example.com
-🔗 [LinkedIn](https://linkedin.com/in/username-kamu)
+📧 girinada79@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/giri-nada-wardana-2020a6310)
